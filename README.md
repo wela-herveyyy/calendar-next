@@ -7,8 +7,8 @@ FullCalendar works well with the React framework [Next.js](https://nextjs.org/)
 ## Installation
 
 ```bash
-git clone https://github.com/fullcalendar/fullcalendar-examples.git
-cd fullcalendar-examples/next13
+git clone https://github.com/wela-herveyyy/calendar-next.git
+cd next13
 npm install
 ```
 
